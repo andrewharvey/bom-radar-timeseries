@@ -1,0 +1,24 @@
+<VRTDataset rasterXSize="512" rasterYSize="512">
+  <VRTRasterBand dataType="Byte" band="1">
+    <ColorInterp>Palette</ColorInterp>
+    <ColorTable>
+      <Entry c1="0" c2="0" c3="0" c4="0"/>
+      <Entry c1="245" c2="245" c3="255" c4="255"/>
+      <Entry c1="180" c2="180" c3="255" c4="255"/>
+      <Entry c1="120" c2="120" c3="255" c4="255"/>
+      <Entry c1="20" c2="20" c3="255" c4="255"/>
+      <Entry c1="0" c2="216" c3="195" c4="255"/>
+      <Entry c1="0" c2="150" c3="144" c4="255"/>
+      <Entry c1="0" c2="102" c3="102" c4="255"/>
+      <Entry c1="255" c2="255" c3="0" c4="255"/>
+      <Entry c1="255" c2="200" c3="0" c4="255"/>
+      <Entry c1="255" c2="150" c3="0" c4="255"/>
+      <Entry c1="255" c2="100" c3="0" c4="255"/>
+      <Entry c1="255" c2="0" c3="0" c4="255"/>
+      <Entry c1="200" c2="0" c3="0" c4="255"/>
+      <Entry c1="120" c2="0" c3="0" c4="255"/>
+      <Entry c1="40" c2="0" c3="0" c4="255"/>
+    </ColorTable>
+    <NoDataValue>0</NoDataValue>
+  </VRTRasterBand>
+</VRTDataset>
